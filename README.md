@@ -1,2 +1,2 @@
 # moine
-maa blog
+my bio
